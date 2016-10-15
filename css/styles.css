@@ -9,7 +9,7 @@ h6 {
     font-family: gilroyextrabold, sans-serif;
 }
 body {
-    background-color: #7bf5ff
+    background-color: #414a9a
 }
 .row {
     max-width: 100%;
@@ -18,7 +18,7 @@ body {
 /*top nav region*/
 .title-bar.sticky {
     padding-top: 35px;
-    background-color: #7bf5ff
+    background-color: #414a9a
 }
 .title-bar.sticky.is-at-top.is-stuck {
     background-color: rgba(255, 255, 255, .75);
@@ -35,7 +35,7 @@ body {
 }
 .menu-links,
 .menu-links:focus {
-    color: #272223;
+    color: #25275d;
     font-size: 16px;
 }
 .menu-links:hover {
@@ -86,8 +86,8 @@ body {
     text-align: center;
 }
 .summit-section {
-    background-color: #fffb83;
-    color: #6e11cc;
+    background-color: #f0852d;
+    color: #81491a;
 }
 .summit-section .image-container {
     margin-top: 132px;
@@ -102,14 +102,14 @@ body {
 .session-submit,
 .session-submit:hover {
     background-color: #fff;
-    color: #6e11cc;
+    color: #81491a;
 }
 .about-section {
-    background: url("../images/about-b-g@2x.jpg") bottom center no-repeat ;
+    background: url("../images/about-b-g@2x.jpg") top center / 100% no-repeat;
 
 }
 .about-section .section-header {
-    color: #fffb83;
+    color: #fff;
     margin-top: 350px;
 }
 .about-section .banner-text {
@@ -118,8 +118,14 @@ body {
 }
 
 .join-section {
-    background-color: #7bf5ff;
+    background-color: #414a9a;
     color: #272223;
+}
+.join-section .section-header {
+    color: #25275d;
+}
+.join-section .banner-text {
+    color: #fff;
 }
 .join-section .button-container {
     margin-bottom: 132px;
@@ -139,14 +145,14 @@ body {
 .sponsor-section .section-header {
     font-size: 72px;
     letter-spacing: -3.5px;
-    color: #89e376;
+    color: #50a83e;
 }
 .sponsor-section .sponsors {
     text-align: center;
 }
 .sponsor-button ,
 .sponsor-button:hover {
-    background-color: #89e376;
+    background-color: #50a83e;
 }
 .sponsor-section .button-container {
     margin-bottom: 119px;
@@ -156,7 +162,7 @@ body {
 }
 
 footer {
-    background-color: #6e11cc;
+    background-color: #414a9a;
     text-align: center;
 }
 .footer-logo {
