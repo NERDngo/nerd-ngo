@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="summit" unicode="&#xe800;" d="M98-83l330 468c4 7 10 10 14 10 5 0 11-3 15-10l75-106c6-9 16-14 27-14 11 0 21 5 28 14l168 239c8 11 17 17 26 17 8 0 17-6 25-17l423-601h-1131z m714 845c22 0 42 6 59 12 17 5 29 9 37 9v-57c0 0 0 0 0 0-22 0-43-6-59-12-18-6-29-9-38-9v56c0 1 1 1 1 1l0 0z m509-859l-461 654c-13 19-31 32-50 40 1 2 1 5 1 7v35c0 0 1 0 1 0 22 0 42 7 59 13 27 9 40 12 53 4 10-7 23-8 34-2 11 6 18 18 18 30v121c0 11-6 22-15 28-42 28-83 15-112 4-24-7-37-10-47-6-6 6-15 11-25 11-18 0-33-15-33-34v-2-123-79c0-3 0-6 1-10-17-7-33-20-44-37l-142-201-47 67c-17 24-43 38-70 38-26 0-52-14-69-38l-367-520c-8-10-9-24-3-35 6-10 18-18 31-18h1260c12 0 24 7 30 18 6 11 5 24-3 35l0 0z" horiz-adv-x="1327" />
+
+<glyph glyph-name="burger" unicode="&#xe822;" d="M0 850h1350v-200h-1350v200z m0-400h1350v-200h-1350v200z m0-400h1350v-200h-1350v200z" horiz-adv-x="1350" />
+</font>
+</defs>
+</svg>
