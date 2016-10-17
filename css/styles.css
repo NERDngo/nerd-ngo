@@ -16,6 +16,9 @@ body {
 }
 
 /*top nav region*/
+.title-bar {
+    padding: 1.5rem;
+}
 .title-bar.sticky {
     padding-top: 35px;
     background-color: #414a9a
