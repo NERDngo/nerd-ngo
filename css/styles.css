@@ -11,7 +11,7 @@ h6 {
 body {
     background-color: #414a9a
 }
-a {
+.about-section a {
     color: white;
     text-decoration: underline;
 }
