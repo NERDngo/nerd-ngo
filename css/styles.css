@@ -11,6 +11,10 @@ h6 {
 body {
     background-color: #414a9a
 }
+a {
+    color: white;
+    text-decoration: underline;
+}
 .row {
     max-width: 100%;
 }
