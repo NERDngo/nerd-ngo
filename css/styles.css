@@ -27,6 +27,9 @@ body {
     padding-top: 35px;
     background-color: #414a9a
 }
+.title-bar.sticky a {
+    color: #ffaf00;
+}
 .title-bar.sticky.is-at-top.is-stuck {
     background-color: rgba(255, 255, 255, .75);
 }
