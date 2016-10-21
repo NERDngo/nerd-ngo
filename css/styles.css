@@ -36,10 +36,9 @@ body {
     float: right;
     margin-right: 50px;
 }
-.menu-links,
-.menu-links:focus {
+.menu-links {
     color: #25275d;
-    font-size: 16px;
+    font-size: 20px;
 }
 .menu-links:hover {
     color: #ffaf00;
@@ -108,7 +107,7 @@ body {
     color: #81491a;
 }
 .about-section {
-    background: url("../images/about-b-g@2x.jpg") top center / 100% no-repeat;
+    background: url("../images/about-b-g@2x.jpg") top center no-repeat;
 
 }
 .about-section .section-header {
@@ -125,7 +124,7 @@ body {
     color: #272223;
 }
 .join-section .section-header {
-    color: #25275d;
+    color: #fff;
 }
 .join-section .banner-text {
     color: #fff;
@@ -183,4 +182,9 @@ footer {
 .social-icon {
     margin-right: 20px;
     margin-left: 20px;
+}
+@media screen and (max-width: 768px) {
+    .main-menu {
+        display: none;
+    }
 }
