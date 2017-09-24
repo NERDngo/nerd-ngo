@@ -131,14 +131,10 @@ body {
     color: #fff;
     margin-bottom: 290px;
 }
-.about-section .banner-text .donate-button {
+.donate-button,
+.donate-button:hover {
     background-color: #fff !important;
-    color: #272223;
-    text-decoration: none;
-}
-a.button.donate-button {
-    background-color: #fff !important;
-    color: #272223;
+    color: #272223 !important;
     text-decoration: none !important;
 }
 
