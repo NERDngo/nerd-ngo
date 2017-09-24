@@ -19,6 +19,10 @@ body {
     max-width: 100%;
 }
 
+.menu-links.green-text {
+    color: #61d035 !important;
+}
+
 /*top nav region*/
 .title-bar {
     padding: 1.5rem;
@@ -126,6 +130,11 @@ body {
 .about-section .banner-text {
     color: #fff;
     margin-bottom: 290px;
+}
+.about-section .banner-text .donate-button {
+    background-color: #fff;
+    color: #272223;
+    text-decoration: none;
 }
 
 .join-section {
