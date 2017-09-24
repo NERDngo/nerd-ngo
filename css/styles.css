@@ -136,6 +136,11 @@ body {
     color: #272223;
     text-decoration: none;
 }
+.button.donate-button {
+    background-color: #fff !important;
+    color: #272223;
+    text-decoration: none !important;
+}
 
 .join-section {
     background-color: #414a9a;
