@@ -136,7 +136,7 @@ body {
     color: #272223;
     text-decoration: none;
 }
-.button.donate-button {
+a.button.donate-button {
     background-color: #fff !important;
     color: #272223;
     text-decoration: none !important;
