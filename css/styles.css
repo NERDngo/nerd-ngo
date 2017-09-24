@@ -132,7 +132,7 @@ body {
     margin-bottom: 290px;
 }
 .about-section .banner-text .donate-button {
-    background-color: #fff;
+    background-color: #fff !important;
     color: #272223;
     text-decoration: none;
 }
