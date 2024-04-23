@@ -110,6 +110,9 @@ body {
 .summit-section img {
     max-height:119px;
 }
+.summit-section .florida img {
+    max-height:200px;
+}
 .summit-section .nedcamp img {
     max-height:200px;
 }
