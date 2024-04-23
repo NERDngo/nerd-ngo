@@ -108,7 +108,13 @@ body {
     margin-top: 132px;
 }
 .summit-section img {
-    max-height: 119px;
+    max-height:119px;
+}
+.summit-section .nedcamp img {
+    max-height:200px;
+}
+.summit-section .atlanta img {
+    max-height:200px;
 }
 .summit-section .button-container {
     margin-bottom: 132px;
